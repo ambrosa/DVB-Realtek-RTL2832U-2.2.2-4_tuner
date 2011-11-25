@@ -1,0 +1,7 @@
+
+History of Realtek RTL2832U DVB-T Linux Driver:
+a. support rc function
+b. support E4000, FC0012, FC0013, FC2580 tuner	
+
+
+
